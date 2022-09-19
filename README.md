@@ -1,12 +1,14 @@
-## 功能介绍 
+## 宠物小程序开发的功能解决方案
     
-前后端完整代码包括学小店动态，宠物常识，项目预约等功能，采用腾讯提供的小程序云开发解决方案，无须服务器和域名。针对养宠人士的一款小程序，方便用户在微信中直接浏览；使用了暖色调的紫色来作为主色，偏冷的湖蓝色来作为点缀，整体风格可爱简约温暖轻量化，   让用户在小程序中享受一站式服务
+- 预约：用户可以通过宠物小程序预约线下宠物服务，让宠物能够接收到专业的服务；除包括洗澡、美容、驱虫、体检等等。
+- 在线咨询：宠物的在线咨询模块是必不可少的，有什么问题可以直接咨询客服，沟通效率更高。
 
 - 预约管理：开始/截止时间/人数均可灵活设置，可以自定义客户预约填写的数据项
 - 预约凭证：支持线下到场后校验签到/核销/二维码自助签到等多种方式
 - 详尽的预约数据：支持预约名单数据导出Excel，打印
 
-![输入图片说明](demo/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220227185210.png)
+ ![image](https://user-images.githubusercontent.com/113865258/190941467-2c859bb3-c705-4ea4-a11a-f442c42913ad.png)
+
  
 
 ## 技术运用
@@ -22,13 +24,15 @@
 - 如有疑问，欢迎骚扰联系我鸭：开发交流，技术分享，问题答疑，功能建议收集，版本更新通知
 - 俺的微信:
 
-![输入图片说明](https://gitee.com/naive2021/smartcollege/raw/master/demo/author.jpg)
+ ![image](https://user-images.githubusercontent.com/113865258/190941477-cea545cc-9949-4faf-869a-1a50d03d5e86.png)
+
 
 
 
 ## 演示
+![image](https://user-images.githubusercontent.com/113865258/190941469-5de02e47-a2f1-481d-873a-3dd19352afb7.png)
 
- ![输入图片说明](demo/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220227185210.png)
+ 
 
 
 
@@ -41,19 +45,23 @@
 
 
 ## 截图
+![image](https://user-images.githubusercontent.com/113865258/190941482-8a26d327-69e7-494f-9529-17af14531ba9.png)
+![image](https://user-images.githubusercontent.com/113865258/190941485-e19898eb-46c9-4b05-aa02-1a57ae733c80.png)
+![image](https://user-images.githubusercontent.com/113865258/190941491-94fb6af0-8c29-499e-85c7-a9c7f5fd223c.png)
+![image](https://user-images.githubusercontent.com/113865258/190941497-67249997-ed07-45ad-9451-6e82719881a9.png)
+![image](https://user-images.githubusercontent.com/113865258/190941504-88fae4b3-5a00-4688-9658-22d42d4b34e1.png)
 
- ![输入图片说明](demo/%E9%A6%96%E9%A1%B5.png)
+ ![image](https://user-images.githubusercontent.com/113865258/190941507-4a9de7a5-4508-4442-8de1-ede1bcbce7b9.png)
+![image](https://user-images.githubusercontent.com/113865258/190941515-3d37b91d-f9f2-4aa0-8db5-563fc054c98b.png)
 
-![输入图片说明](demo/%E9%A1%B9%E7%9B%AE%E9%A2%84%E7%BA%A6.png)
-![输入图片说明](demo/%E5%AE%A0%E7%89%A9%E5%B8%B8%E8%AF%86.png)
-![输入图片说明](demo/%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83.png)
-
-![输入图片说明](demo/%E9%A2%84%E7%BA%A6%E6%97%A5%E5%8E%86.png)
-![输入图片说明](demo/%E9%A2%84%E7%BA%A6%E6%97%B6%E6%AE%B5.png)
-![输入图片说明](demo/%E9%A2%84%E7%BA%A6%E5%93%8D%E5%BA%94.png)
 
 ## 后台截图
-![输入图片说明](demo/%E5%90%8E%E5%8F%B0-%E8%8F%9C%E5%8D%95.png)
-![输入图片说明](demo/%E5%90%8E%E5%8F%B0-%E6%97%B6%E6%AE%B5%E8%AE%BE%E7%BD%AE.png)
-![输入图片说明](demo/%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E7%AE%A1%E7%90%86.png)
-![输入图片说明](demo/%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E6%B7%BB%E5%8A%A0.png)
+![image](https://user-images.githubusercontent.com/113865258/190941518-eaa0c8d8-992c-47fe-b99b-5a7ddb185073.png)
+![image](https://user-images.githubusercontent.com/113865258/190941532-0d0bfa60-2b3c-401c-8757-304da7a333a3.png)
+![image](https://user-images.githubusercontent.com/113865258/190941539-b43f2245-6753-452f-ba71-b0b14f9f99ec.png)
+![image](https://user-images.githubusercontent.com/113865258/190941541-86086bb6-6f3b-4f3c-8e23-3516ed6564bc.png)
+
+
+
+
+
